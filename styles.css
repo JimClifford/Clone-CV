@@ -1,0 +1,45 @@
+.container {
+    width: 35cm;
+    
+    font-family: verdana;
+    margin: auto; 
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgb(0,0,0,0.1);
+    
+} 
+
+
+
+
+#top-part{
+    text-align: center;
+}
+#name {
+    font-size: 14;
+}
+
+.titles {
+    font-size: 8.5;
+}
+
+.contacts {
+    font-size: 8.5;
+}
+.align-right {
+    
+    float: right;
+}
+hr {
+    border-width: 1.5pt;
+    border-color: black;
+    border-style: solid;
+    margin-bottom: 1px;
+    margin-top: -0.5px;
+}
+
+body{
+    background-color: black;
+}
+
+
